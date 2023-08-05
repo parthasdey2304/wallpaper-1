@@ -3,7 +3,9 @@ This is a wallpaper that I have designed using HTML, and TailwindCSS! Basically 
 
 # Screenshots
 + Computer
-![Screenshot 2023-08-03 144208](https://github.com/parthasdey2304/wallpaper-1/assets/131694386/b0d8461e-8e2e-42a3-8159-14b0fa29ce2c)
+
+<img src="https://github.com/parthasdey2304/wallpaper-1/assets/131694386/b0d8461e-8e2e-42a3-8159-14b0fa29ce2c" alt="wallpaper phone image" height="500px">
+
 
 + Phone
 
